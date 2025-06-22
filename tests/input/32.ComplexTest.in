@@ -1,0 +1,46 @@
+6
+1
+https://www.stanford.edu/
+Stanford University
+2
+https://www.ox.ac.uk/
+University of Oxford
+3
+https://www.harvard.edu/
+Harvard University
+4
+https://www.mit.edu/
+MIT
+5
+https://www.cam.ac.uk/
+University of Cambridge
+6
+https://www.princeton.edu/
+Princeton University
+26
+PAGE 1
+PRINT
+NEW_TAB
+PAGE 2
+PRINT
+NEW_TAB
+PAGE 3
+PRINT
+NEXT
+PRINT
+PREV
+PRINT
+CLOSE
+PRINT
+NEW_TAB
+PAGE 4
+BACKWARD
+PRINT
+FORWARD
+PRINT
+OPEN 1
+PRINT
+NEXT
+PRINT
+PRINT_HISTORY 1
+PRINT_HISTORY 4
