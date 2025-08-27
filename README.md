@@ -1,3 +1,12 @@
+This project helped me better understand concepts such as doubly linked lists and stacks, and improved my ability to work with them and dynamic memory. 
+
+The project description can be found [here](SDA___Tema_1_2025.pdf)  
+
+For running:   
+
+    ./checker.sh
+
+
 ## My Approach:
 - I organized the code into 4 .c files and 4 .h files.
 
